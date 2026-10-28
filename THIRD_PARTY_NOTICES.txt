@@ -1,0 +1,37 @@
+Nibble third-party notices
+
+Nibble's own material is governed by the root LICENSE. That custom license
+must not be applied to independently licensed third-party components.
+
+1. nlohmann/json 3.11.3
+   File: src/json.hpp
+   Copyright (c) 2013-2022 Niels Lohmann
+   License: MIT
+   Complete notice: src/JSON-LICENSE.txt (retained unchanged)
+
+2. LLVM C++ runtime components used by the Zig C++ build
+   Components: libc++, libc++abi, libunwind
+   License: Apache License 2.0 with LLVM Exceptions and any additional notices
+   contained in the respective license texts.
+   Complete notices:
+     licenses/libcxx-LICENSE.txt
+     licenses/libcxxabi-LICENSE.txt
+     licenses/libunwind-LICENSE.txt
+
+3. mingw-w64 runtime/support material used by the Windows build
+   Terms: see the bundled upstream COPYING document, including its notices
+   concerning portions under other terms.
+   Complete notice: licenses/mingw-w64-COPYING.txt
+
+4. Zig runtime/support code, where linked into an executable
+   Copyright (c) Zig contributors
+   License: MIT (Expat)
+   Complete notice: licenses/zig-runtime-LICENSE.txt
+
+Windows system libraries are provided by the operating system and are not
+redistributed as DLLs in this package. If you change dependencies or build
+settings, review the applicable third-party terms for the resulting build.
+
+These upstream licenses grant their own permissions, which this notice and
+Nibble's license do not replace. Keep applicable notices with redistributed
+copies of the relevant material and supplied executables.

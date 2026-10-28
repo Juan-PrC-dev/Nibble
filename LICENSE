@@ -1,0 +1,121 @@
+Nibble Source-Available License
+Version 1.0
+
+Copyright (c) 2026 Juan-PrC-dev
+Additional contributions remain the copyright of their respective owners.
+
+1. Scope and definitions
+
+"Software" means the Nibble project code, documentation, and artwork expressly
+made available under this License, together with copies and modified versions
+of that material. Third-party material is excluded as described in section 7.
+
+"Licensor" means each copyright holder granting rights in their material under
+this License. Juan-PrC-dev is the original project's public licensor identity.
+This License grants only rights that the applicable Licensor is entitled to grant.
+
+"You" means a person or organization using, copying, modifying, or distributing
+the Software. A "modified version" includes a fork, adaptation, translation,
+rebranded version, or other derivative of the Software.
+
+2. Permitted activities
+
+Subject to the conditions below, each Licensor grants You a worldwide,
+royalty-free, non-exclusive license to use, run, study, copy, modify, and
+redistribute their Software, in source or compiled form, without charge.
+
+Personal, educational, research, and internal business use are permitted.
+A business may use and privately modify the Software for its own operations.
+A business earning money from unrelated activities while using Nibble internally
+is not, by itself, prohibited monetization. Paying employees for ordinary
+internal work does not, by itself, violate this License.
+
+3. Conditions for sharing and modification
+
+When You share the Software or a modified version, You must:
+
+(a) provide it free of charge;
+(b) include this complete License and retain applicable copyright, attribution,
+    and third-party notices;
+(c) clearly identify material changes You made, without implying that the
+    original Licensor approved or authored those changes; and
+(d) distribute the Software and Your changes to it under these same terms.
+
+You may keep private modifications private. This License does not require You
+to publish Your private source code. Free distribution of compiled versions is
+permitted subject to the same conditions and all applicable third-party terms.
+
+4. Commercial restrictions and separate permission
+
+Without prior written permission from the relevant Licensor or Licensors,
+You must not:
+
+(a) sell, rent, or license the Software or a modified version for a fee;
+(b) charge for downloading, accessing, or using the Software or a modified
+    version, including through subscriptions or paid hosted services;
+(c) include the Software or a modified version in a product, bundle, or service
+    that You sell or otherwise provide to third parties for compensation; or
+(d) monetize third-party access to, use of, or distribution of the Software,
+    including through advertising-supported copies or hosted versions.
+
+These restrictions apply even if You change the name, interface, artwork,
+packaging, or functionality, and even if You add other material or features.
+The express permission for internal business use in section 2 remains in effect.
+It does not authorize offering the Software's functionality to external
+customers as part of a paid product or service.
+
+Separate commercial permission may be requested from the applicable Licensor.
+Contact the Nibble repository maintainer identified as Juan-PrC-dev to discuss
+permission for the original project. Permission for material owned by other
+contributors may also require those contributors' consent. No commercial
+permission is granted merely by submitting a request or receiving no response.
+
+5. Names and independent work
+
+You must not misrepresent the origin or ownership of the Software or imply
+endorsement by a Licensor. No trademark rights are granted beyond reasonable
+use necessary to identify the original project and comply with attribution.
+
+This License does not give a Licensor exclusive ownership of the general idea
+of a desktop companion or usage tracker. It does not restrict independently
+created software that does not use material or rights covered by this License.
+
+6. Contributions
+
+Unless separately agreed in writing, contributions intentionally submitted for
+inclusion in Nibble are offered under this License. Contributors retain their
+ownership. Submission does not assign copyright or automatically authorize a
+maintainer to grant a separate commercial license for another person's material.
+
+7. Third-party components
+
+This License does not replace or restrict licenses granted by third parties.
+Their code and other material remain subject to their own applicable terms.
+
+In particular, src/json.hpp is nlohmann/json and retains its MIT License, found
+in src/JSON-LICENSE.txt. Its existing copyright and license notice must be kept.
+Other bundled dependency or runtime notices are identified in
+THIRD_PARTY_NOTICES.txt and licenses/. These exclusions do not grant a right
+to commercially distribute Nibble's own material contrary to section 4.
+
+8. Warranty and liability
+
+The Software is provided as is and as available. To the extent permitted by
+applicable law, each Licensor disclaims warranties, including warranties of
+merchantability, fitness for a particular purpose, title, and non-infringement.
+To that same extent, no Licensor is liable for losses, damages, claims, or other
+liability arising from the Software or its use, whether under contract, tort,
+or another legal theory. Rights and liabilities that applicable law does not
+allow to be excluded remain unaffected.
+
+9. Compliance and other licenses
+
+Your rights under this License terminate if You fail to comply with its terms.
+After termination, stop activities that depended on those rights unless the
+relevant Licensor reinstates them in writing. A breach by another distributor
+does not, by itself, terminate the rights of recipients who remain compliant.
+
+If a provision is unenforceable, the remaining provisions continue to apply
+to the extent permitted by law. No provision revokes permissions previously
+granted to You under a separate license. No rights beyond those expressly
+granted in this License are implied.
