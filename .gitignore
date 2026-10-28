@@ -1,0 +1,25 @@
+# Private runtime and development data
+/work/
+.codex/
+.env
+.env.*
+auth.json
+state.json
+state.tmp
+events.log
+*.log
+
+# Compiler caches and outputs
+.cache/
+zig-cache/
+.zig-cache/
+zig-out/
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.zip
+
